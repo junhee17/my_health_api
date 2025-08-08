@@ -1,0 +1,14 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.pyc
+
+# SQLite databases
+*.db
+*.db-journal
+
+# Virtual Environment
+venv/
+.venv/
+
+# macOS system files
+.DS_Store
